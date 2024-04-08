@@ -31,11 +31,3 @@ Construiremos gráficos para visualizar essas métricas e entender as tendência
 ### Passo 3: Conclusões e Recomendações
 Com base nas análises realizadas, elaboraremos recomendações aos especialistas de marketing sobre onde e quanto investir, fundamentando nossas escolhas nas métricas relevantes.
 
-## Como Usar
-Para executar este projeto, você pode clonar este repositório e executar o código fornecido em um ambiente Jupyter Notebook.
-
-## Avaliação
-O projeto será avaliado com base na preparação e análise dos dados, criação de gráficos e interpretação dos resultados, fundamentação das recomendações aos especialistas de marketing e organização do código.
-
-Boa sorte!
-
